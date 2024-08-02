@@ -21,7 +21,11 @@ public class Student {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
-  
+   int  B1()
+{}
+ 
+int Hello()
+{}
     int getTotal()
     {
         return (RE+SDA+SQAT+SEAM+FM);
@@ -33,6 +37,7 @@ public class Student {
 
     }
    This is B1a
+  
     void testAll()
  {
      System.out.println("Hello");
