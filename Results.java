@@ -20,6 +20,8 @@ public class Student {
     {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
+float test1()
+
 
    int  B1()
 {}
