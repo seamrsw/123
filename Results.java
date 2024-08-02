@@ -21,7 +21,11 @@ public class Student {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
-  
+   int  B1()
+{}
+ 
+int Hello()
+{}
     int getTotal()
     {
         return (RE+SDA+SQAT+SEAM+FM);
@@ -32,7 +36,7 @@ public class Student {
         System.out.println("Testing...");
 
     }
-   Thius is branch 1
+  
     void testAll()
  {
      System.out.println("Hello");
